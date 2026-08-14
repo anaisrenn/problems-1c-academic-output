@@ -1,0 +1,33 @@
+Participant number,Identity,Voted for,Belonging,Change
+1,ID-WELSH,Other left-wing party,Strong,N/A
+2,ID-WELSH-BRITISH,Plaid Cymru,Some ,Complex
+3,ID-WELSH-OTHER,Other left-wing party,Strong,No change
+4,ID-WELSH-BRITISH,Other left-wing party,Some ,Negative
+5,ID-WELSH,Plaid Cymru,Some,Compex
+6,ID-WELSH,Plaid Cymru,Some,Complex
+7,ID-WELSH,Plaid Cymru,Some,Complex
+8,ID-WELSH,Plaid Cymru,Strong,No change
+9,ID-WELSH,Plaid Cymru,Strong,Complex
+10,ID-WELSH,Plaid Cymru,Strong,Complex
+11,ID-WELSH-BRITISH,Plaid Cymru,Strong,Complex
+12,ID-WELSH,Plaid Cymru,Strong,Complex
+13,ID-WELSH,Plaid Cymru,Strong,Complex
+14,ID-WELSH-BRITISH,Plaid Cymru,Strong,No change
+15,ID-WELSH,Right-wing party,Strong,Negative
+16,ID-BRITISH,Other left-wing party,No,Negative
+17,ID-WELSH,Other left-wing party,Strong,Positive
+18,ID-WELSH-OTHER,Right-wing party,Some,Negative
+19,ID-OTHER,Plaid Cymru,No,N/A
+20,ID-WELSH,Plaid Cymru,Strong,Positive
+21,ID-OTHER,Right-wing party,Strong,Negative
+22,ID-WELSH,Plaid Cymru,Strong,Negative
+23,ID-OTHER,Other left-wing party,Strong,N/A
+24,ID-BRITISH,Other left-wing party,Strong,No change
+25,ID-WELSH-BRITISH,Plaid Cymru,Strong,Positive
+26,ID-WELSH-OTHER,Other left-wing party,Strong,None
+27,ID-WELSH-OTHER,Other left-wing party,Strong,Positive
+28,ID-BRITISH,Right-wing party,Strong,Negative
+29,ID-WELSH,Other left-wing party,Strong,Complex
+30,ID-BRITISH,Right-wing party,Strong ,Negative
+31,ID-BRITISH,Plaid Cymru,Some,Complex
+32,ID-BRITISH,Other left-wing party,Strong,Complex
